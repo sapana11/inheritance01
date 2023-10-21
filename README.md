@@ -18,7 +18,7 @@ This C++ program allows you to manage information about managers and employees a
   - Bonus (if applicable)
 - The program will calculate the pay for each manager and display the highest-paid manager's name.
 - It will also provide the average pay for all managers.
-  #output
+  ###output
 Here is an example of what your program must look like when it is run. User input is shown in bold. Enter number of managers: 4
 Enter manager 0 name: Anne Archer
 Enter manager 0 hourly wage: 12.00
